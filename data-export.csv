@@ -1,0 +1,228 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Science x
+# Property: science x
+# ----------------------------------------
+#  
+# Start date: 20230923
+# End date: 20231020
+Nth day,Users
+0000,1
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,1
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,2
+0023,1
+0024,1
+0025,0
+0026,0
+0027,0
+
+# Start date: 20230923
+# End date: 20231020
+Nth day,New users
+0000,1
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,1
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,1
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+
+# Start date: 20230923
+# End date: 20231020
+Nth day,Average engagement time
+0000,33
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,81
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,48
+0023,31
+0024,67
+0025,0
+0026,0
+0027,0
+
+# Start date: 20230923
+# End date: 20231020
+Nth day,Total revenue
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+
+# Where do your new users come from?
+# Start date: 20230923
+# End date: 20231020
+First user default channel group,New users
+Organic Social,3
+
+#  
+# Start date: 20230923
+# End date: 20231020
+Session default channel group,Sessions
+Organic Social,7
+
+#  
+# Start date: 20230923
+# End date: 20231020
+Country ID,Users
+IN,3
+
+# Start date: 20230923
+# End date: 20231020
+Country,Users
+IN,3
+
+# How are active users trending?
+# Start date: 20230923
+# End date: 20231020
+Nth day,30 days,7 days,1 day
+0000,3,1,1
+0001,3,1,0
+0002,3,1,0
+0003,3,1,0
+0004,3,1,0
+0005,3,1,0
+0006,3,1,0
+0007,3,0,0
+0008,3,0,0
+0009,3,0,0
+0010,3,0,0
+0011,3,0,0
+0012,3,0,0
+0013,3,0,0
+0014,3,0,0
+0015,3,0,0
+0016,4,1,1
+0017,4,1,0
+0018,3,1,0
+0019,3,1,0
+0020,3,1,0
+0021,2,1,0
+0022,3,3,2
+0023,3,2,1
+0024,3,2,1
+0025,3,2,0
+0026,3,2,0
+0027,3,2,0
+
+#  
+# Start date: 20230923
+# End date: 20231020
+Page title and screen class,Views
+Science Scope,21
+Aditya L1 Info,4
+Launch video,3
+Unveiling the Wonders of Gaganyaan,3
+"""Green Guardians of the Galaxy: Unraveling the Secrets of Space Algae""",1
+News Letter (Science Scope),1
+
+#  
+# Start date: 20230923
+# End date: 20231020
+Event name,Event count
+page_view,33
+user_engagement,29
+scroll,12
+session_start,7
+first_visit,3
+click,1
+
+# What are your top conversions?
+# Start date: 20230923
+# End date: 20231020
+Event name,Conversions
+
+
+#  
+# Start date: 20230923
+# End date: 20231020
+Item name,Items purchased
+
+
+# How does activity on your platforms compare?
+# Start date: 20230923
+# End date: 20231020
+Platform,Conversions
